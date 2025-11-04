@@ -1,0 +1,27 @@
+body{
+    margin: 20px;
+}
+
+.main-image{
+    width: 150px;
+}
+
+.card-container{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+    
+}
+
+.dotted-blue-border{
+    border: 1px dotted blue ;
+}
+
+.data-container{
+    text-align: center;
+    color: #2b2839;
+}
